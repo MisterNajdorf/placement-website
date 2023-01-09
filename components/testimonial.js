@@ -145,19 +145,19 @@ const Testimonial = () => {
       name: "Saumya Yadav",
       dept: "Bioscience and Bioengineering",
       company: "Vantage Research",
-      src:"https://dummyimage.com/302x302",
+      src:"24.jpg",
     },
     {
       name: "Munagala Meghana",
       dept: " Chemical Engineering",
       company: "StepChange Inc.",
-      src:"https://dummyimage.com/302x302",
+      src:"25.jpg",
     },
     {
       name: "Sagar Patnakar",
       dept: " Chemical Engineering",
       company: "ANDRITZ Technologies Private Limited",
-      src:"https://dummyimage.com/302x302",
+      src:"26.jpg",
     },
     {
       name: "Shruti Sawant",
@@ -175,13 +175,13 @@ const Testimonial = () => {
       name: "Prabhat Kumar",
       dept: "Mechanical Engineering",
       company: "Meril Life Sciences Pvt. Ltd.",
-      src:"https://dummyimage.com/302x302",
+      src:"29.jpg"
     },
     {
       name: "Rajiv Kumar",
       dept: "Computer Science and Engineering",
       company: "Shopsense Retail Technologies Limited",
-      src:"https://dummyimage.com/302x302",
+      src:"30.jpg",
     },
     {
       name: "Prakash Suthar",
@@ -193,19 +193,19 @@ const Testimonial = () => {
       name: "Justin Jacob",
       dept: "System and Control Engineering",
       company: "Airbus",
-      src:"https://dummyimage.com/302x302",
+      src:"32.jpg",
     },
     {
       name: "Ruchira Bhatt ",
       dept: "Physics",
       company: "Fujitsu Research & Development India",
-      src:"https://dummyimage.com/302x302",
+      src:"33.jpg",
     },
     {
       name: "Sweta Rani",
       dept: " Metallurgical Engineering and Material Science",
       company: "Adani Green Energy Limited",
-      src:"https://dummyimage.com/302x302",
+      src:"34.png",
     },
     {
       name: "Srikant Batna",
