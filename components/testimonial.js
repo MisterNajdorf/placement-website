@@ -148,7 +148,7 @@ const Testimonial = () => {
       src:"https://dummyimage.com/302x302",
     },
     {
-      name: "Munagala Meghna",
+      name: "Munagala Meghana",
       dept: " Chemical Engineering",
       company: "StepChange Inc.",
       src:"https://dummyimage.com/302x302",
@@ -198,7 +198,7 @@ const Testimonial = () => {
     {
       name: "Ruchira Bhatt ",
       dept: "Physics",
-      company: "Fujitsu Research and Development India",
+      company: "Fujitsu Research & Development India",
       src:"https://dummyimage.com/302x302",
     },
     {
@@ -231,7 +231,7 @@ const Testimonial = () => {
     <>
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-14 mx-auto">
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center ">
             <Cardsingle
               name={data[0].name}
               dept={data[0].dept}
@@ -252,7 +252,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[3].name}
               dept={data[3].dept}
@@ -273,7 +273,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[6].name}
               dept={data[6].dept}
@@ -294,7 +294,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[9].name}
               dept={data[9].dept}
@@ -315,7 +315,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[12].name}
               dept={data[12].dept}
@@ -336,7 +336,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[15].name}
               dept={data[15].dept}
@@ -358,7 +358,7 @@ const Testimonial = () => {
           </div>
 
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[18].name}
               dept={data[18].dept}
@@ -379,7 +379,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[21].name}
               dept={data[21].dept}
@@ -400,7 +400,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[24].name}
               dept={data[24].dept}
@@ -423,7 +423,7 @@ const Testimonial = () => {
 
           {/*  */}
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[27].name}
               dept={data[27].dept}
@@ -444,7 +444,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center">
             <Cardsingle
               name={data[30].name}
               dept={data[30].dept}
@@ -465,7 +465,7 @@ const Testimonial = () => {
             />
           </div>
 
-          <div className="flex flex-wrap -m-4 sm:mb-20">
+          <div className="flex flex-wrap -m-4 sm:mb-20 justify-center ">
             <Cardsingle
               name={data[33].name}
               dept={data[33].dept}
