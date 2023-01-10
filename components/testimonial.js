@@ -154,7 +154,7 @@ const Testimonial = () => {
       src:"25.jpg",
     },
     {
-      name: "Sagar Patnakar",
+      name: "Sagar Patankar",
       dept: " Chemical Engineering",
       company: "ANDRITZ Technologies Private Limited",
       src:"26.jpg",
