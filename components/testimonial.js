@@ -187,7 +187,7 @@ const Testimonial = () => {
       name: "Prakash Suthar",
       dept: "Mechanical Engineering",
       company: "SEDEMAC Mechatronics Pvt Ltd",
-      src:"https://dummyimage.com/302x302",
+      src:"31.jpg",
     },
     {
       name: "Justin Jacob",
