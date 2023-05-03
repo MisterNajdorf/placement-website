@@ -8,7 +8,7 @@ const Heading = (props) => {
           IIT BOMBAY PHD PLACEMENTS 2022-23
         </h2>
         <h1 className="sm:text-5xl text-4xl font-medium title-font mb-4 text-gray-900 dark:text-white">
-          {props.heading} Page
+          {props.heading}
         </h1>
         <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
           Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
