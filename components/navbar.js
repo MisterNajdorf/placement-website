@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
       <Link href="about" className="mr-5 hover:text-white">About</Link>
       <Link href="https://campus.placements.iitb.ac.in/blog/phd/" target="_blank" className="mr-5 hover:text-white">Blog</Link>
-      <Link href="result" className="mr-5 hover:text-white">Results</Link>
+      <Link href="result" className="mr-5 hover:text-white">Result</Link>
       <Link href="team" className="mr-5 hover:text-white">Teams</Link>
       <Link href="https://campus.placements.iitb.ac.in/blog/phd/?page_id=145
 " target="_blank" className="mr-5 hover:text-white">Contact</Link>
