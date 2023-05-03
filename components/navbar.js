@@ -14,6 +14,7 @@ const Navbar = () => {
       <Link href="about" className="mr-5 hover:text-white">About</Link>
       <Link href="https://campus.placements.iitb.ac.in/blog/phd/" target="_blank" className="mr-5 hover:text-white">Blog</Link>
       <Link href="result" className="mr-5 hover:text-white">Results</Link>
+      <Link href="team" className="mr-5 hover:text-white">Teams</Link>
       <Link href="https://campus.placements.iitb.ac.in/blog/phd/?page_id=145
 " target="_blank" className="mr-5 hover:text-white">Contact</Link>
     </nav>
